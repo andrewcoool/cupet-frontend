@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This is the front-end Android portion of the Cupet application.
+This is the frontend Android portion of the Cupet application.
 
 ## App Specification
 
